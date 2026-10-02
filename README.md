@@ -25,4 +25,6 @@
 - Minimum LFPR during lockdown: 35.0%.
 - Drop: 9.11 percentage points.
 - As the Unemployment rate rose, labor force participation rate declined.
+
+- Video link: https://lnkd.in/p/dKRQVbdZ
 ### Thank you for your attention.
